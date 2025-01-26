@@ -1,0 +1,30 @@
+Skipping merge: T1 or T2 is in the forbidden list.
+Skipping merge: T3 or T4 is in the forbidden list.
+Merging sets: T2 and T5
+Merging sets: T6 and T7
+Merging sets: T7 and T8
+Merging sets: T3 and T7
+[Performance] Test Case: test_case_1.txt took 11 ms
+Merging sets: T1 and T2
+Merging sets: T3 and T4
+Merging sets: T2 and T4
+Merging sets: T5 and T6
+Merging sets: T6 and T7
+Merging sets: T6 and T8
+Merging sets: T6 and T4
+Skipping merge: T10 or T11 is in the forbidden list.
+Skipping merge: T12 or T9 is in the forbidden list.
+[Performance] Test Case: test_case_2.txt took 4 ms
+Merging sets: T1 and T2
+Merging sets: T3 and T4
+Merging sets: T2 and T4
+[Performance] Test Case: test_case_array.txt took 7 ms
+List List3 is cyclic.
+Merging sets: T1 and T5
+Merging sets: T6 and T7
+[Performance] Test Case: test_case_list.txt took 9 ms
+Merging sets: T1 and T4
+Merging sets: T2 and T5
+Merging sets: T3 and T6
+Skipping merge: T10 or T7 is in the forbidden list.
+[Performance] Test Case: test_case_mixed.txt took 9 ms
