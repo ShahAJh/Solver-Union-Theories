@@ -1,0 +1,8 @@
+set Array1 0 ValueA
+set Array1 1 ValueB
+set Array1 2 ValueC
+set Array2 0 ValueX
+set Array2 1 ValueY
+add T1 T2
+add T3 T4
+add T1 T3

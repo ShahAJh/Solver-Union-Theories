@@ -1,0 +1,11 @@
+forbidden T9
+forbidden T10
+add T1 T2
+add T3 T4
+add T2 T3
+add T5 T6
+add T6 T7
+add T7 T8
+add T8 T1
+add T10 T11
+add T12 T9

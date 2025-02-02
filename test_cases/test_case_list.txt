@@ -1,0 +1,5 @@
+list List1 [T1,T2,T3,T4]
+list List2 [T5,T6,T7]
+list List3 [T8,T9,T8] # Cyclic list
+add T1 T5
+add T6 T7

@@ -1,0 +1,9 @@
+forbidden T10
+set Array1 0 ValueA
+set Array1 1 ValueB
+list List1 [T1,T2,T3]
+list List2 [T4,T5,T6,T7]
+add T1 T4
+add T2 T5
+add T3 T6
+add T10 T7

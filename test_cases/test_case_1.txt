@@ -1,0 +1,8 @@
+forbidden T1
+forbidden T4
+add T1 T2
+add T3 T4
+add T2 T5
+add T6 T7
+add T7 T8
+add T3 T6
